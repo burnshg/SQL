@@ -1,7 +1,7 @@
-echo "# SQL-Portfolio" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/burnshg/SQL-Portfolio.git
-git push -u origin main
+>[!TIP]
+> Read this first.
+
+
+# Heather's Break Into Tech Example SQL Portfolio
+## Welcome to my SQL Portfolio! This code respository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions.
+_This portfolio was curated during my lessons of the Break Into Tech Data Analytics Certificate Course_
