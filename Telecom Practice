@@ -1,3 +1,5 @@
+#This project utilizes the following two tables of data:
+
 -- TELECOM DATA TABLE #1: products 
 CREATE TABLE products (
     product_id INTEGER PRIMARY KEY,
@@ -34,6 +36,8 @@ VALUES
     ('456789012345', 4, 79.99, 'bob.johnson@example.com'),
     ('567890123456', 1, 49.99, 'susan.wilson@example.com');
 
+
+#For this project, I used SQL to query the two databases above to get information about the customer subscriptions.
 
 select *
 from products
